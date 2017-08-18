@@ -1,0 +1,21 @@
+[{
+	"id": 1,
+	"module_icon": "NA",
+	"module_name": "Categories",
+	"status": 1
+}, {
+	"id": 2,
+	"module_icon": "NA",
+	"module_name": "Most Popular",
+	"status": 1
+}, {
+	"id": 3,
+	"module_icon": "NA",
+	"module_name": "User Store",
+	"status": 1
+}, {
+	"id": 4,
+	"module_icon": "NA",
+	"module_name": "Contribute",
+	"status": 1
+}]
