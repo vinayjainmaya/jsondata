@@ -3,23 +3,43 @@
 	"suggestion_title": "Dry Mixed Recycling1",
 	"suggestion_type": "Mixed Dry",
 	"suggestion_des": "Dry recyclables is the modern description of waste that is free from contaminants such as construction, food or garden waste. Leaving clean materials such as paper, cardboard, plastic bottles...,",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 45,
+	"suggestion_useful":5,
+	"suggestion_author":"Kishore",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 2,
 	"suggestion_title": "Dry Mixed Recycling2",
 	"suggestion_type": "Mixed Dry",
 	"suggestion_des": "Dry recyclables is the modern description of waste that is free from contaminants such as construction, food or garden waste. Leaving clean materials such as paper, cardboard, plastic bottles...,",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 459,
+	"suggestion_useful":75,
+	"suggestion_author":"Rajesh",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 3,
 	"suggestion_title": "Dry Mixed Recycling3",
 	"suggestion_type": "Mixed Dry",
 	"suggestion_des": "Dry recyclables is the modern description of waste that is free from contaminants such as construction, food or garden waste. Leaving clean materials such as paper, cardboard, plastic bottles...,",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 425,
+	"suggestion_useful":53,
+	"suggestion_author":"kamalesh",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 4,
 	"suggestion_title": "Dry Mixed Recycling4",
 	"suggestion_type": "Mixed Dry",
 	"suggestion_des": "Dry recyclables is the modern description of waste that is free from contaminants such as construction, food or garden waste. Leaving clean materials such as paper, cardboard, plastic bottles...,",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 445,
+	"suggestion_useful":65,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }]

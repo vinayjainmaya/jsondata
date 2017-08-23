@@ -3,23 +3,43 @@
 	"suggestion_title": "Non-Recyclable Materials",
 	"suggestion_type": "Non Recyclable",
 	"suggestion_des": "Treated or contaminated wood - wood treated with preservatives or attached to other materials like sheetrock or window glass ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 5,
+	"suggestion_useful":2,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 2,
 	"suggestion_title": "Non-Recyclable Materials",
 	"suggestion_type": "Non Recyclable",
 	"suggestion_des": "Treated or contaminated wood - wood treated with preservatives or attached to other materials like sheetrock or window glass ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 57,
+	"suggestion_useful":24,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 3,
 	"suggestion_title": "Non-Recyclable Materials",
 	"suggestion_type": "Non Recyclable",
 	"suggestion_des": "Treated or contaminated wood - wood treated with preservatives or attached to other materials like sheetrock or window glass ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 56,
+	"suggestion_useful":23,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 4,
 	"suggestion_title": "Non-Recyclable Materials",
 	"suggestion_type": "Non Recyclable",
 	"suggestion_des": "Treated or contaminated wood - wood treated with preservatives or attached to other materials like sheetrock or window glass ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 45,
+	"suggestion_useful":5,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }]

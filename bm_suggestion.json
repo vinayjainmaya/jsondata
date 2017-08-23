@@ -3,23 +3,43 @@
 	"suggestion_title": "Medical Packaging of Pill Packets1",
 	"suggestion_type": "Medical",
 	"suggestion_des": "Medicinal packaging in the form of plastic and aluminium blisters remains one of the toughest materials to deal with. With many manufacturers moving away from traditional plastic pill bottles ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 57,
+	"suggestion_useful":24,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 2,
 	"suggestion_title": "Medical Packaging of Pill Packets2",
 	"suggestion_type": "Medical",
 	"suggestion_des": "Medicinal packaging in the form of plastic and aluminium blisters remains one of the toughest materials to deal with. With many manufacturers moving away from traditional plastic pill bottles ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 7,
+	"suggestion_useful":14,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 3,
 	"suggestion_title": "Medical Packaging of Pill Packets3",
 	"suggestion_type": "Medical",
 	"suggestion_des": "Medicinal packaging in the form of plastic and aluminium blisters remains one of the toughest materials to deal with. With many manufacturers moving away from traditional plastic pill bottles ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 57,
+	"suggestion_useful":74,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }, {
 	"id": 4,
 	"suggestion_title": "Medical Packaging of Pill Packets4",
 	"suggestion_type": "Medical",
 	"suggestion_des": "Medicinal packaging in the form of plastic and aluminium blisters remains one of the toughest materials to deal with. With many manufacturers moving away from traditional plastic pill bottles ….",
-	"status": 1
+	"suggestion_status": 1,
+	"suggestion_like": 57,
+	"suggestion_useful":84,
+	"suggestion_author":"VinayMJ",
+	"suggestion_lastupdate":"11/12/2017 2.30PM",
+	"suggestion_res":"https://www.google.com/"
 }]
